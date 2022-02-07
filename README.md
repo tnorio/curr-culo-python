@@ -1,4 +1,4 @@
-# curr-culo-python
+# currículo-python
 template de currículo gerado em python
 
 Este template foi criado baseado no template disponivel por e-kirkland (https://github.com/e-kirkland), com algumas modificações.
